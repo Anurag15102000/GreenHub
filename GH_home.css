@@ -1,0 +1,56 @@
+.topr{margin-top: -13px;}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    margin-top: -21.5px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333333;
+}
+li {
+   float: left; 
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111111;
+}
+.pic{
+    line-height: -40px;
+    margin-top: 5px;
+    width: 100%;
+}
+.abouth{
+    background-color: seagreen;
+    text-align: center;
+    margin-top: -12px;
+    padding-top: 8px;
+    
+}
+.aboutbd{background-color: white;}
+
+.aboutpara{font-family: cursive;
+font-size: 20px;
+padding-top: none;
+background-color: tomato;
+margin-top: 3px;
+text-align: center;}
+
+.beech{
+        text-align: center;
+        font-size: 25px;
+        margin-top: 65px;
+       }
+
+
+
+
+
+
+
+
